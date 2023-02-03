@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-ui-adminlte",
+    "name": "andrezanna/laravel-ui-adminlte",
     "description": "Laravel frontend preset for AdminLTE Theme",
     "keywords": [
         "laravel",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Andrea Zanini",
+            "email": "andrea.zanini02@gmail.com"
         }
     ],
     "require": {
